@@ -4,4 +4,5 @@ AntiAssholeHooff-addon:
 
 Enjoy!
 
-![Uploading KaraPortalBlock.png…]()
+<img width="1327" height="723" alt="KaraPortalBlock" src="https://github.com/user-attachments/assets/c4762f4f-7a22-4d41-8b83-6173bcc0c5fa" />
+
